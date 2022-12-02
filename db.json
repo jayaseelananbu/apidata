@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "name": "Jayaseelan one",
+      "languageCode": "en",
+      "id": 1
+    }
+  ],
+  "languages": [
+    {
+      "languageName": "English",
+      "languageCode": "en"
+    },
+    {
+      "languageName": "German",
+      "languageCode": "de"
+    }
+  ]
+}
